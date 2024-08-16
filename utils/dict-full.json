@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Acre",
+        "UF": "AC",
+        "capital": "Rio Branco",
+        "difficult": 1
+    },
+    {
+        "name": "Alagoas",
+        "UF": "AL",
+        "capital": "Maceió",
+        "difficult": 1
+    },
+    {
+        "name": "Amapá",
+        "UF": "AP",
+        "capital": "Macapá",
+        "difficult": 2
+    },
+    {
+        "name": "Amazonas",
+        "UF": "AM",
+        "capital": "Manaus",
+        "difficult": 1
+    },
+    {
+        "name": "Bahia",
+        "UF": "BA",
+        "capital": "Salvador",
+        "difficult": 1
+    },
+    {
+        "name": "Ceará",
+        "UF": "CE",
+        "capital": "Fortaleza",
+        "difficult": 1
+    },
+    {
+        "name": "Espírito Santo",
+        "UF": "ES",
+        "capital": "Vitória",
+        "difficult": 0
+    },
+    {
+        "name": "Goiás",
+        "UF": "GO",
+        "capital": "Goiânia",
+        "difficult": 2
+    },
+    {
+        "name": "Maranhão",
+        "UF": "MA",
+        "capital": "São Luís",
+        "difficult": 2
+    },
+    {
+        "name": "Mato Grosso",
+        "UF": "MT",
+        "capital": "Cuiabá",
+        "difficult": 1
+    },
+    {
+        "name": "Mato Grosso do Sul",
+        "UF": "MS",
+        "capital": "Campo Grande",
+        "difficult": 2
+    },
+    {
+        "name": "Minas Gerais",
+        "UF": "MG",
+        "capital": "Belo Horizonte",
+        "difficult": 0
+    },
+    {
+        "name": "Pará",
+        "UF": "PA",
+        "capital": "Belém",
+        "difficult": 2
+    },
+    {
+        "name": "Paraíba",
+        "UF": "PB",
+        "capital": "João Pessoa",
+        "difficult": 0
+    },
+    {
+        "name": "Paraná",
+        "UF": "PR",
+        "capital": "Curitiba",
+        "difficult": 0
+    },
+    {
+        "name": "Pernambuco",
+        "UF": "PE",
+        "capital": "Recife",
+        "difficult": 0
+    },
+    {
+        "name": "Piauí",
+        "UF": "PI",
+        "capital": "Teresina",
+        "difficult": 2
+    },
+    {
+        "name": "Rio de Janeiro",
+        "UF": "RJ",
+        "capital": "Rio de Janeiro",
+        "difficult": 0
+    },
+    {
+        "name": "Rio Grande do Norte",
+        "UF": "RN",
+        "capital": "Natal",
+        "difficult": 2
+    },
+    {
+        "name": "Rio Grande do Sul",
+        "UF": "RS",
+        "capital": "Porto Alegre",
+        "difficult": 0
+    },
+    {
+        "name": "Rondônia",
+        "UF": "RO",
+        "capital": "Porto Velho",
+        "difficult": 2
+    },
+    {
+        "name": "Roraima",
+        "UF": "RR",
+        "capital": "Boa Vista",
+        "difficult": 2
+    },
+    {
+        "name": "Santa Catarina",
+        "UF": "SC",
+        "capital": "Florianópolis",
+        "difficult": 0
+    },
+    {
+        "name": "São Paulo",
+        "UF": "SP",
+        "capital": "São Paulo",
+        "difficult": 0
+    },
+    {
+        "name": "Sergipe",
+        "UF": "SE",
+        "capital": "Aracaju",
+        "difficult": 2
+    },
+    {
+        "name": "Tocantins",
+        "UF": "TO",
+        "capital": "Palmas",
+        "difficult": 1
+    },
+    {
+        "name": "Distrito Federal",
+        "UF": "DF",
+        "capital": "Brasília",
+        "difficult": 0
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Paraná",
+        "UF": "PR",
+        "capital": "Curitiba"
+    },
+    {
+        "name": "Rio Grande do Sul",
+        "UF": "RS",
+        "capital": "Porto Alegre"
+    },
+    {
+        "name": "Santa Catarina",
+        "UF": "SC",
+        "capital": "Florianópolis"
+    },
+    {
+        "name": "São Paulo",
+        "UF": "SP",
+        "capital": "São Paulo"
+    }
+]
